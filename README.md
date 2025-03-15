@@ -62,7 +62,7 @@ This script checks compatibility based on a **hardware table (`supported_hardwar
 | 5.10 - 5.14       | Ubuntu 20.04 (Focal)           |
 | Below 5.10        | ❌ **Not Supported**            |
 
-> **Note:** These recommendations are based on **Intel GPU driver compatibility** for AI workloads.
+> **Note:** These recommendations are based on **[Intel GPU driver compatibility](https://dgpu-docs.intel.com/devices/hardware-table.html)** for AI workloads.
 
 ---
 
