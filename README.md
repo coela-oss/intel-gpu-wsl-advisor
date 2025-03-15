@@ -1,6 +1,6 @@
 # **Intel GPU Compatibility & WSL Setup for AI Inference**
   
-This repository provides **PowerShell scripts** to detect **Intel GPUs**, check compatibility, and guide users through installing **Ubuntu on WSL** for AI inference workloads. It is specifically designed for **AI developers** who want to leverage their **Intel GPU** for deep learning and inference tasks, rather than gaming.
+This repository provides **PowerShell scripts** to detect **Intel GPUs**, check compatibility, and guide users through installing **Ubuntu on WSL** for AI inference workloads. It is specifically designed for **AI developers** who want to leverage their **Intel GPU** for deep learning and inference tasks.
 
 ---
 
@@ -30,7 +30,7 @@ cd intel-gpu-wsl-setup
 
 2️⃣ **Run the script in PowerShell**  
 ```powershell
-.\Main.ps1
+.\WhichVersionInstall.ps1
 ```
 
 3️⃣ **Follow the prompts**  
