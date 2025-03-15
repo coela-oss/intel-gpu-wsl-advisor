@@ -1,0 +1,90 @@
+PCI IDs	Name	Architecture	Codename	Kernel	EU number
+E20B	Intel® Arc™ B580 Graphics	Xe2	Battlemage	6.11*	320
+E20C	Intel® Arc™ B570 Graphics	Xe2	Battlemage	6.11*	288
+64A0	Intel® Arc™ Graphics	Xe2	Lunar Lake	6.8*	64/56
+6420	Intel® Graphics	Xe2	Lunar Lake	6.8*	64/56
+64B0	Intel® Graphics	Xe2	Lunar Lake	6.8*	32
+7D51	Intel® Graphics	Xe-LPG	Arrow Lake-H	6.9	128/112
+7D67	Intel® Graphics	Xe-LPG	Arrow Lake-S	6.7	64/48/32
+7D41	Intel® Graphics	Xe-LPG	Arrow Lake-U	6.9	64
+7DD5	Intel® Graphics	Xe-LPG	Meteor Lake	6.7	128/112
+7D45	Intel® Graphics	Xe-LPG	Meteor Lake	6.7	64/48
+7D40	Intel® Graphics	Xe-LPG	Meteor Lake	6.7	64/48
+7D55	Intel® Arc™ Graphics	Xe-LPG	Meteor Lake	6.7	128/112
+0BD5	Intel® Data Center GPU Max 1550	Xe-HPC	Ponte Vecchio	out-of-tree	1024
+0BDA	Intel® Data Center GPU Max 1100	Xe-HPC	Ponte Vecchio	out-of-tree	448
+56C0	Intel® Data Center GPU Flex 170	Xe-HPG	Alchemist	out-of-tree	512
+56C1	Intel® Data Center GPU Flex 140	Xe-HPG	Alchemist	out-of-tree	128
+5690	Intel® Arc™ A770M Graphics	Xe-HPG	Alchemist	6.2	512
+5691	Intel® Arc™ A730M Graphics	Xe-HPG	Alchemist	6.2	384
+5696	Intel® Arc™ A570M Graphics	Xe-HPG	Alchemist	6.2	256
+5692	Intel® Arc™ A550M Graphics	Xe-HPG	Alchemist	6.2	256
+5697	Intel® Arc™ A530M Graphics	Xe-HPG	Alchemist	6.2	192
+5693	Intel® Arc™ A370M Graphics	Xe-HPG	Alchemist	6.2	128
+5694	Intel® Arc™ A350M Graphics	Xe-HPG	Alchemist	6.2	96
+56A0	Intel® Arc™ A770 Graphics	Xe-HPG	Alchemist	6.2	512
+56A1	Intel® Arc™ A750 Graphics	Xe-HPG	Alchemist	6.2	448
+56A2	Intel® Arc ™ A580 Graphics	Xe-HPG	Alchemist	6.2	384
+56A5	Intel® Arc™ A380 Graphics	Xe-HPG	Alchemist	6.2	128
+56A6	Intel® Arc™ A310 Graphics	Xe-HPG	Alchemist	6.2	96
+56B3	Intel® Arc ™ Pro A60 Graphics	Xe-HPG	Alchemist	6.2	256
+56B2	Intel® Arc ™ Pro A60M Graphics	Xe-HPG	Alchemist	6.2	256
+56B1	Intel® Arc™ Pro A40/A50 Graphics	Xe-HPG	Alchemist	6.2	128
+56B0	Intel® Arc™ Pro A30M Graphics	Xe-HPG	Alchemist	6.2	128
+56BA	Intel® Arc™ A380E Graphics	Xe-HPG	Alchemist	6.7	128
+56BC	Intel® Arc™ A370E Graphics	Xe-HPG	Alchemist	6.7	128
+56BD	Intel® Arc™ A350E Graphics	Xe-HPG	Alchemist	6.7	96
+56BB	Intel® Arc™ A310E Graphics	Xe-HPG	Alchemist	6.7	96
+A780	Intel® UHD Graphics 770	Xe	Raptor Lake-S	5.17	32
+A781, A788, A789	Intel® UHD Graphics	Xe	Raptor Lake-S	5.17	32
+A78A	Intel® UHD Graphics	Xe	Raptor Lake-S	5.19	24
+A782	Intel® UHD Graphics 730	Xe	Raptor Lake-S	5.17	24
+A78B	Intel® UHD Graphics	Xe	Raptor Lake-S	5.19	16
+A783	Intel® UHD Graphics 710	Xe	Raptor Lake-S	5.17	16
+A7A0, A7A1	Intel® Iris® Xe Graphics	Xe	Raptor Lake-P	5.19	96/80
+A7A8	Intel® UHD Graphics	Xe	Raptor Lake-P	5.19	64/48
+A7AA	Intel® Graphics	Xe	Raptor Lake-P	6.7	96/80
+A7AB	Intel® Graphics	Xe	Raptor Lake-P	6.7	64/48
+A7AC	Intel® Graphics	Xe	Raptor Lake-U	6.7	96/80
+A7AD	Intel® Graphics	Xe	Raptor Lake-U	6.7	64/48
+A7A9	Intel® UHD Graphics	Xe	Raptor Lake-P	5.19	64/48
+A721	Intel® UHD Graphics	Xe	Raptor Lake-P	5.19	96/80
+4905	Intel® Iris® Xe MAX Graphics	Xe	DG1	5.16*	96
+4907	Intel Server GPU SG-18M	Xe	DG1	5.16*	96
+4908	Intel® Iris® Xe Graphics	Xe	DG1	5.16*	80
+4909	Intel® Iris® Xe MAX 100 Graphics	Xe	DG1	5.16*	80
+4680, 4690	Intel® UHD Graphics 770	Xe	Alder Lake-S	5.16	32
+4688	Intel® UHD Graphics 770	Xe	Alder Lake-S	5.16	32
+468A	Intel® UHD Graphics 770	Xe	Alder Lake-S	5.16	24
+468B	Intel® UHD Graphics 770	Xe	Alder Lake-S	6.1	16
+4682, 4692	Intel® UHD Graphics 730	Xe	Alder Lake-S	5.16	24
+4693	Intel® UHD Graphics 710	Xe	Alder Lake-S	5.16	16
+46D3	Intel® Graphics	Xe	Alder Lake-N	6.9	32
+46D4	Intel® Graphics	Xe	Alder Lake-N	6.9	24
+46D0	Intel® UHD Graphics	Xe	Alder Lake-N	5.18	32
+46D1	Intel® UHD Graphics	Xe	Alder Lake-N	5.18	24
+46D2	Intel® UHD Graphics	Xe	Alder Lake-N	5.18	16
+4626, 4628, 462A	Intel® UHD Graphics	Xe	Alder Lake-P	5.17	96/80
+46A2, 46B3, 46C2	Intel® UHD Graphics	Xe	Alder Lake-P	5.17	64
+46A3, 46B2, 46C3	Intel® UHD Graphics	Xe	Alder Lake-P	5.17	64/48
+46A0, 46B0, 46C0	Intel® Iris® Xe Graphics	Xe	Alder Lake-P	5.17	96
+46A6, 46AA, 46A8	Intel® Iris® Xe Graphics	Xe	Alder Lake-P	5.17	96/80
+46A1, 46B1, 46C1	Intel® Iris® Xe Graphics	Xe	Alder Lake-P	5.17	80
+4C8A	Intel® UHD Graphics 750	Xe	Rocket Lake	5.13	32
+4C8B	Intel® UHD Graphics 730	Xe	Rocket Lake	5.13	24
+4C90, 4C9A	Intel® UHD Graphics P750	Xe	Rocket Lake	5.13	24
+4E71	Intel® UHD Graphics	Xe	Jasper Lake	5.15	32
+4E61	Intel® UHD Graphics	Xe	Jasper Lake	5.15	24
+4E57	Intel® UHD Graphics	Xe	Jasper Lake	5.15	20
+4E55	Intel® UHD Graphics	Xe	Jasper Lake	5.15	16
+4E51	Intel® UHD Graphics	Xe	Jasper Lake	5.15	16
+4557	Intel® UHD Graphics	Xe	Elkhart Lake	5.15	20
+4555	Intel® UHD Graphics	Xe	Elkhart Lake	5.15	16
+4571	Intel® UHD Graphics	Xe	Elkhart Lake	5.15	32
+4551	Intel® UHD Graphics	Xe	Elkhart Lake	5.15	16
+4541	Intel® UHD Graphics	Xe	Elkhart Lake	5.15	8
+9A59	Intel® UHD Graphics	Xe	Tiger Lake	5.7	96
+9A78	Intel® UHD Graphics	Xe	Tiger Lake	5.7	48
+9A60, 9A70	Intel® UHD Graphics	Xe	Tiger Lake	5.7	32
+9A68	Intel® UHD Graphics	Xe	Tiger Lake	5.7	16
+9A40, 9A49	Intel® Iris® Xe Graphics	Xe	Tiger Lake	5.7	96/80
